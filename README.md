@@ -3,7 +3,7 @@
 
 ---
 
-## badges
+## Overview of RAPyDO projects
 
 | project | pypi | quality | travis | coveralls |
 | --- | --- | --- | --- | --- |
