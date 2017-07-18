@@ -1,11 +1,14 @@
 # issues
 
-[![Join the chat at https://gitter.im/_rapydo_/Lobby](https://badges.gitter.im/_rapydo_/Lobby.svg)](https://gitter.im/_rapydo_/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+| license | bug-tracker | chat |
+| --- | --- | --- |
+| [![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE) | [![GitHub issues](https://img.shields.io/github/issues/rapydo/issues.svg)](https://github.com/rapydo/issues/issues) | [![Join the chat at https://gitter.im/_rapydo_/Lobby](https://badges.gitter.im/_rapydo_/Lobby.svg)](https://gitter.im/_rapydo_/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
 
 ---
 
-## Overview of RAPyDO projects
+## status 
+
+A brief summary of all RAPyDO repositories:
 
 | project | version | quality | travis | coveralls | docs |
 | --- | --- | --- | --- | --- | --- |
