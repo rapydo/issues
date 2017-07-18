@@ -1,5 +1,7 @@
 # issues
 
+[![Join the chat at https://gitter.im/_rapydo_/Lobby](https://badges.gitter.im/_rapydo_/Lobby.svg)](https://gitter.im/_rapydo_/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ---
 
