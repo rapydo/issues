@@ -19,3 +19,4 @@ A brief summary of all RAPyDO repositories:
 | [build templates](https://github.com/rapydo/build-templates) | [![GitHub version](https://img.shields.io/github/tag/rapydo/build-templates.svg)](https://github.com/rapydo/build-templates/releases) | --- | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=master)](https://travis-ci.org/rapydo/build-templates) | --- | --- |
 | [core](https://github.com/rapydo/core) | [![GitHub version](https://img.shields.io/github/tag/rapydo/core.svg)](https://github.com/rapydo/core/releases) | --- | --- | --- | --- |
 
+Note: on going documentation inside a [gitbook](https://rapydo.gitbooks.io/rapydo/content/).
