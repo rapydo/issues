@@ -20,3 +20,14 @@ A brief summary of all RAPyDO repositories:
 | [tests](https://github.com/rapydo/tests) | [![GitHub version](https://img.shields.io/github/tag/rapydo/tests.svg)](https://github.com/rapydo/tests/releases) | --- | --- | --- | --- |
 
 Note: on going documentation inside a [gitbook](https://rapydo.gitbooks.io/rapydo/content/).
+
+## versions
+
+| version | release date | status |
+| --- | --- | --- |
+| 0.6.1 | Spring 2018 | to be released |
+| 0.6.0 | 17 Jan 2018 | released and supported |
+| 0.5.7 | 03 Nov 2017 | released and partially supported |
+| 0.5.6 | 24 Oct 2017 | discontinued |
+| 0.5.5 | 25 Sep 2017 | discontinued |
+| 0.5.4 | 12 Sep 2017 | discontinued |
