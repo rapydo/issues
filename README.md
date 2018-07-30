@@ -25,10 +25,11 @@ Note: on going documentation inside a [gitbook](https://rapydo.gitbooks.io/rapyd
 
 | version | release date | status |
 | --- | --- | --- |
-| 0.6.2 | 2018 | to be released |
+| 0.6.3 | -- Oct 2018 | to be released |
+| 0.6.2 | 30 Jul 2018 | released and supported |
 | 0.6.1 | 26 Apr 2018 | released and supported |
-| 0.6.0 | 17 Jan 2018 | released and supported |
-| 0.5.7 | 03 Nov 2017 | released and partially supported |
+| 0.6.0 | 17 Jan 2018 | released and partially supported |
+| 0.5.7 | 03 Nov 2017 | discontinued |
 | 0.5.6 | 24 Oct 2017 | discontinued |
 | 0.5.5 | 25 Sep 2017 | discontinued |
 | 0.5.4 | 12 Sep 2017 | discontinued |
