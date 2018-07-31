@@ -1,3 +1,7 @@
+# Slack
+
+https://join.slack.com/t/rapydo/shared_invite/enQtNDA4OTExMjYwMDg3LWE3YWQ0OGM2MmFiODc0ZDdiYjdjZGU3NjJkNGQ5MTM3MWY2NjA5NmVkNTMzNDcyOWQ2NzMxMzRiY2EyODJkMjM
+
 # issues
 
 | license | bug-tracker | chat |
