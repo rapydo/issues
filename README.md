@@ -29,7 +29,8 @@ Note: on going documentation inside a [gitbook](https://rapydo.gitbooks.io/rapyd
 
 | version | release date | status |
 | --- | --- | --- |
-| 0.6.3 | -- Oct 2018 | to be released |
+| 0.6.4 | -- --- 2019 | to be released |
+| 0.6.3 | 06 Dec 2018 |released and supported |
 | 0.6.2 | 30 Jul 2018 | released and supported |
 | 0.6.1 | 26 Apr 2018 | released and supported |
 | 0.6.0 | 17 Jan 2018 | released and partially supported |
