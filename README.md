@@ -1,10 +1,4 @@
-# Slack 
-
-[Join our community on slack](https://join.slack.com/t/rapydo/shared_invite/enQtNDA4OTExMjYwMDg3LWE3YWQ0OGM2MmFiODc0ZDdiYjdjZGU3NjJkNGQ5MTM3MWY2NjA5NmVkNTMzNDcyOWQ2NzMxMzRiY2EyODJkMjM)
-
----
-
-[![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE)
+## [Join our community on slack](https://join.slack.com/t/rapydo/shared_invite/enQtNDA4OTExMjYwMDg3LWE3YWQ0OGM2MmFiODc0ZDdiYjdjZGU3NjJkNGQ5MTM3MWY2NjA5NmVkNTMzNDcyOWQ2NzMxMzRiY2EyODJkMjM)
 
 ---
 
@@ -21,8 +15,6 @@ A brief summary of all RAPyDO repositories:
 | [build templates](https://github.com/rapydo/build-templates) | [![GitHub version](https://img.shields.io/github/tag/rapydo/build-templates.svg)](https://github.com/rapydo/build-templates/releases) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd7b137c51da4bec85657ab2f60a7485)](https://app.codacy.com/app/rapydo/build-templates?utm_source=github.com&utm_medium=referral&utm_content=rapydo/build-templates&utm_campaign=Badge_Grade_Dashboard) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=master)](https://travis-ci.org/rapydo/build-templates) | --- | --- |
 | [tests](https://github.com/rapydo/tests) | [![GitHub version](https://img.shields.io/github/tag/rapydo/tests.svg)](https://github.com/rapydo/tests/releases) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3fe7e2b8ea644912ac981e38b7afcd6a)](https://app.codacy.com/app/rapydo/tests?utm_source=github.com&utm_medium=referral&utm_content=rapydo/tests&utm_campaign=Badge_Grade_Dashboard) | --- | --- | --- |
 
-Note: on going documentation inside a [gitbook](https://rapydo.gitbooks.io/rapydo/content/).
-
 ## versions
 
 | version | release date | status |
@@ -37,3 +29,5 @@ Note: on going documentation inside a [gitbook](https://rapydo.gitbooks.io/rapyd
 | 0.5.6 | 24 Oct 2017 | discontinued |
 | 0.5.5 | 25 Sep 2017 | discontinued |
 | 0.5.4 | 12 Sep 2017 | discontinued |
+
+[![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE)
