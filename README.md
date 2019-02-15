@@ -4,9 +4,9 @@
 
 # issues
 
-| license | bug-tracker | chat |
-| --- | --- | --- |
-| [![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE) | [![GitHub issues](https://img.shields.io/github/issues/rapydo/issues.svg)](https://github.com/rapydo/issues/issues) | [![Join the chat at https://gitter.im/_rapydo_/Lobby](https://badges.gitter.im/_rapydo_/Lobby.svg)](https://gitter.im/_rapydo_/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
+| license | bug-tracker |
+| --- | --- |
+| [![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE) | [![GitHub issues](https://img.shields.io/github/issues/rapydo/issues.svg)](https://github.com/rapydo/issues/issues)
 
 ---
 
@@ -29,11 +29,12 @@ Note: on going documentation inside a [gitbook](https://rapydo.gitbooks.io/rapyd
 
 | version | release date | status |
 | --- | --- | --- |
-| 0.6.4 | -- --- 2019 | to be released |
-| 0.6.3 | 06 Dec 2018 |released and supported |
+| 0.6.5 | --- | developing |
+| 0.6.4 | 11 Feb 2019 | released and supported |
+| 0.6.3 | 06 Dec 2018 | released and supported |
 | 0.6.2 | 30 Jul 2018 | released and supported |
-| 0.6.1 | 26 Apr 2018 | released and supported |
-| 0.6.0 | 17 Jan 2018 | released and partially supported |
+| 0.6.1 | 26 Apr 2018 | released and partially supported |
+| 0.6.0 | 17 Jan 2018 | discontinued |
 | 0.5.7 | 03 Nov 2017 | discontinued |
 | 0.5.6 | 24 Oct 2017 | discontinued |
 | 0.5.5 | 25 Sep 2017 | discontinued |
