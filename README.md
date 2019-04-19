@@ -14,7 +14,8 @@
 
 | version | release date | status |
 | --- | --- | --- |
-| 0.6.5 | --- | developing |
+| 0.6.6 | --- | developing |
+| 0.6.5 | 19 Apr 2019 | released and supported |
 | 0.6.4 | 11 Feb 2019 | released and supported |
 | 0.6.3 | 06 Dec 2018 | released and supported |
 | 0.6.2 | 30 Jul 2018 | released and supported |
