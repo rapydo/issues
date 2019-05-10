@@ -19,7 +19,7 @@
 | 0.6.4 | 11 Feb 2019 | released and supported |
 | 0.6.3 | 06 Dec 2018 | released and supported |
 | 0.6.2 | 30 Jul 2018 | released and supported |
-| 0.6.1 | 26 Apr 2018 | released and partially supported |
+| 0.6.1 | 26 Apr 2018 | discontinued |
 | 0.6.0 | 17 Jan 2018 | discontinued |
 | 0.5.7 | 03 Nov 2017 | discontinued |
 | 0.5.6 | 24 Oct 2017 | discontinued |
