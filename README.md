@@ -14,17 +14,17 @@
 
 | version | release date | status |
 | --- | --- | --- |
-| 0.6.7 | --- | developing |
-| 0.6.6 | 28 Jun 2019 | released and supported |
-| 0.6.5 | 19 Apr 2019 | released and supported |
-| 0.6.4 | 11 Feb 2019 | released and supported |
-| 0.6.3 | 06 Dec 2018 | released and partially supported |
-| 0.6.2 | 30 Jul 2018 | discontinued |
-| 0.6.1 | 26 Apr 2018 | discontinued |
-| 0.6.0 | 17 Jan 2018 | discontinued |
-| 0.5.7 | 03 Nov 2017 | discontinued |
-| 0.5.6 | 24 Oct 2017 | discontinued |
-| 0.5.5 | 25 Sep 2017 | discontinued |
-| 0.5.4 | 12 Sep 2017 | discontinued |
+| 0.6.7 | --- | Developing |
+| 0.6.6 | 28 Jun 2019 | Supported |
+| 0.6.5 | 19 Apr 2019 | Supported |
+| 0.6.4 | 11 Feb 2019 | Supported |
+| 0.6.3 | 06 Dec 2018 | Partially supported |
+| 0.6.2 | 30 Jul 2018 | Discontinued |
+| 0.6.1 | 26 Apr 2018 | Discontinued |
+| 0.6.0 | 17 Jan 2018 | Discontinued |
+| 0.5.7 | 03 Nov 2017 | Discontinued |
+| 0.5.6 | 24 Oct 2017 | Discontinued |
+| 0.5.5 | 25 Sep 2017 | Discontinued |
+| 0.5.4 | 12 Sep 2017 | Discontinued |
 
 [![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE)
