@@ -4,7 +4,7 @@
 
 ### A brief summary of all RAPyDO repositories:
 
-| project | version | quality | travis | coveralls |
+| Project | Version | Quality | Travis | Coverage |
 | --- | --- | --- | --- | --- |
 | [controller](https://github.com/rapydo/do) | [![PyPI version](https://badge.fury.io/py/rapydo-controller.svg)](https://badge.fury.io/py/rapydo-controller) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9e552a06046d479db90623d7af44044b)](https://app.codacy.com/app/rapydo/do?utm_source=github.com&utm_medium=referral&utm_content=rapydo/do&utm_campaign=Badge_Grade_Dashboard) | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=master)](https://travis-ci.org/rapydo/do) | [![Coverage Status](https://coveralls.io/repos/github/rapydo/do/badge.svg?branch=master)](https://coveralls.io/github/rapydo/do?branch=master) |
 | [utils](https://github.com/rapydo/utils) | [![PyPI version](https://badge.fury.io/py/rapydo-utils.svg)](https://badge.fury.io/py/rapydo-utils) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/392ea6bce27c453bbc3777410a63ac76)](https://app.codacy.com/app/rapydo/utils?utm_source=github.com&utm_medium=referral&utm_content=rapydo/utils&utm_campaign=Badge_Grade_Dashboard) | [![Build Status](https://travis-ci.org/rapydo/utils.svg)](https://travis-ci.org/rapydo/utils) | [![Coverage Status](https://coveralls.io/repos/github/rapydo/utils/badge.svg?branch=master)](https://coveralls.io/github/rapydo/utils?branch=master) |
