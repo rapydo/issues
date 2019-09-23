@@ -14,7 +14,7 @@
 
 ## Versions
 
-| version | release date | status |
+| Version | Release date | Status |
 | --- | --- | --- |
 | **0.7.0** | --- | Under development (unstable) |
 | **0.6.8** | --- | Under development (stable) |
