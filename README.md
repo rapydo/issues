@@ -33,7 +33,7 @@
 
 [![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE)
 
-| . | Controller | Utils | HTTP-API | Build templates | Rapydo-Angular |
+| Version | Controller | Utils | HTTP-API | Build templates | Rapydo-Angular |
 | --- | --- | --- | --- | --- | --- |
 | 0.6.3 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.6.3)](https://travis-ci.org/rapydo/do?branch=0.6.3) | [![Build Status](https://travis-ci.org/rapydo/utils.svg?branch=0.6.3)](https://travis-ci.org/rapydo/utils?branch=0.6.3) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.6.3)](https://travis-ci.org/rapydo/http-api?branch=0.6.3) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.6.3)](https://travis-ci.org/rapydo/build-templates?branch=0.6.3) | - |
 | 0.6.4 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.6.4)](https://travis-ci.org/rapydo/do?branch=0.6.4) | [![Build Status](https://travis-ci.org/rapydo/utils.svg?branch=0.6.4)](https://travis-ci.org/rapydo/utils?branch=0.6.4) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.6.4)](https://travis-ci.org/rapydo/http-api?branch=0.6.4) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.6.4)](https://travis-ci.org/rapydo/build-templates?branch=0.6.4) |- |
