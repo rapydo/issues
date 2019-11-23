@@ -18,12 +18,12 @@
 | Version | Release date | Status |
 | --- | --- | --- |
 | **0.7.0** | --- | Under development |
-| **0.6.8** | --- | Discontinued |
+| 0.6.8 | --- | Discontinued |
 | **0.6.7** | 23 Sep 2019 | Supported |
 | **0.6.6** | 28 Jun 2019 | Supported |
 | **0.6.5** | 19 Apr 2019 | Supported |
 | **0.6.4** | 11 Feb 2019 | Supported |
-| **0.6.3** | 06 Dec 2018 | Partial support |
+| 0.6.3 | 06 Dec 2018 | Discontinued |
 | 0.6.2 | 30 Jul 2018 | Discontinued |
 | 0.6.1 | 26 Apr 2018 | Discontinued |
 | 0.6.0 | 17 Jan 2018 | Discontinued |
@@ -37,7 +37,6 @@
 | Version | Controller | Utils | HTTP-API | Build templates | Rapydo-Angular |
 | --- | --- | --- | --- | --- | --- |
 | master | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=master)](https://travis-ci.org/rapydo/do?branch=master) | [![Build Status](https://travis-ci.org/rapydo/utils.svg?branch=master)](https://travis-ci.org/rapydo/utils?branch=master) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=master)](https://travis-ci.org/rapydo/http-api?branchmaster) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=master)](https://travis-ci.org/rapydo/build-templates?branch=master) | - |
-| 0.6.3 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.6.3)](https://travis-ci.org/rapydo/do?branch=0.6.3) | [![Build Status](https://travis-ci.org/rapydo/utils.svg?branch=0.6.3)](https://travis-ci.org/rapydo/utils?branch=0.6.3) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.6.3)](https://travis-ci.org/rapydo/http-api?branch=0.6.3) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.6.3)](https://travis-ci.org/rapydo/build-templates?branch=0.6.3) | - |
 | 0.6.4 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.6.4)](https://travis-ci.org/rapydo/do?branch=0.6.4) | [![Build Status](https://travis-ci.org/rapydo/utils.svg?branch=0.6.4)](https://travis-ci.org/rapydo/utils?branch=0.6.4) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.6.4)](https://travis-ci.org/rapydo/http-api?branch=0.6.4) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.6.4)](https://travis-ci.org/rapydo/build-templates?branch=0.6.4) |- |
 | 0.6.5 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.6.5)](https://travis-ci.org/rapydo/do?branch=0.6.5) | [![Build Status](https://travis-ci.org/rapydo/utils.svg?branch=0.6.5)](https://travis-ci.org/rapydo/utils?branch=0.6.5) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.6.5)](https://travis-ci.org/rapydo/http-api?branch=0.6.5) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.6.5)](https://travis-ci.org/rapydo/build-templates?branch=0.6.5) | - |
 | 0.6.6 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.6.6)](https://travis-ci.org/rapydo/do?branch=0.6.6) | [![Build Status](https://travis-ci.org/rapydo/utils.svg?branch=0.6.6)](https://travis-ci.org/rapydo/utils?branch=0.6.6) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.6.6)](https://travis-ci.org/rapydo/http-api?branch=0.6.6) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.6.6)](https://travis-ci.org/rapydo/build-templates?branch=0.6.6) | [![Build Status](https://travis-ci.org/rapydo/rapydo-angular.svg?branch=0.6.6)](https://travis-ci.org/rapydo/rapydo-angular?branch=0.6.6) |
