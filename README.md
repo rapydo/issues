@@ -17,7 +17,7 @@
 | Version | Release date | Status |
 | --- | --- | --- |
 | **0.7.3** | *end of May 2020* | Under development |
-| **0.7.2** | 21 Mar 2020 | Under development |
+| **0.7.2** | 21 Mar 2020 | Supported |
 | **0.7.1** | 19 Jan 2020 | Supported |
 | **0.7.0** | 25 Nov 2019 | Supported |
 | 0.6.8 | --- | Discontinued |
