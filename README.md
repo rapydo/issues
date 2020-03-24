@@ -33,6 +33,10 @@
 | 0.5.6 | 24 Oct 2017 | Discontinued |
 | 0.5.5 | 25 Sep 2017 | Discontinued |
 | 0.5.4 | 12 Sep 2017 | Discontinued |
+| 0.5.3 | 1 Aug 2017 | Discontinued |
+| 0.5.2 | 28 Jul 2017 | Discontinued |
+| 0.5.1 | 18 Jul 2017 | Discontinued |
+| 0.5.0 | 14 Jul 2017 | Discontinued |
 
 [![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE)
 
