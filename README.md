@@ -9,6 +9,8 @@
 | [angular](https://github.com/rapydo/rapydo-angular) | [![GitHub version](https://img.shields.io/github/tag/rapydo/rapydo-angular.svg)](https://github.com/rapydo/rapydo-angular/releases) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/62dbfaf2b3cb42eeae6e37bc4ed559d0)](https://www.codacy.com/manual/rapydo/rapydo-angular?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rapydo/rapydo-angular&amp;utm_campaign=Badge_Grade) | [![Build Status](https://travis-ci.org/rapydo/rapydo-angular.svg)](https://travis-ci.org/rapydo/rapydo-angular) | [![codecov](https://codecov.io/gh/rapydo/rapydo-angular/branch/0.7.3/graph/badge.svg)](https://codecov.io/gh/rapydo/rapydo-angular) |
 | [build templates](https://github.com/rapydo/build-templates) | [![GitHub version](https://img.shields.io/github/tag/rapydo/build-templates.svg)](https://github.com/rapydo/build-templates/releases) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd7b137c51da4bec85657ab2f60a7485)](https://app.codacy.com/app/rapydo/build-templates?utm_source=github.com&utm_medium=referral&utm_content=rapydo/build-templates&utm_campaign=Badge_Grade_Dashboard) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=master)](https://travis-ci.org/rapydo/build-templates) |  |
 
+[![PyPI](https://img.shields.io/pypi/l/rapydo-controller.svg)](https://github.com/rapydo/core/blob/master/LICENSE)
+
 
 ## Versions
 
@@ -34,8 +36,6 @@
 | 0.5.2 | 28 Jul 2017 | Discontinued |
 | 0.5.1 | 18 Jul 2017 | Discontinued |
 | 0.5.0 | 14 Jul 2017 | Discontinued |
-
-[![PyPI](https://img.shields.io/pypi/l/rapydo-utils.svg)](https://github.com/rapydo/core/blob/master/LICENSE)
 
 | Version | Controller | HTTP-API | Build templates | Rapydo-Angular |
 | --- | --- | --- | --- | --- |
