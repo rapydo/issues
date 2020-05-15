@@ -16,6 +16,7 @@
 
 | Version | Release date | Status |
 | --- | --- | --- |
+| **0.7.4** | *end of Jul 2020* | Under development |
 | **0.7.3** | *end of May 2020* | Under development |
 | **0.7.2** | 21 Mar 2020 | Supported |
 | **0.7.1** | 19 Jan 2020 | Supported |
@@ -39,6 +40,7 @@
 
 | Version | Controller | HTTP-API | Build templates | Rapydo-Angular |
 | --- | --- | --- | --- | --- |
+| 0.7.4 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.7.4)](https://travis-ci.org/rapydo/do/branches) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.7.4)](https://travis-ci.org/rapydo/http-api/branches) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.7.4)](https://travis-ci.org/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.org/rapydo/rapydo-angular.svg?branch=0.7.4)](https://travis-ci.org/rapydo/rapydo-angular/branches) |
 | 0.7.3 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.7.3)](https://travis-ci.org/rapydo/do/branches) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.7.3)](https://travis-ci.org/rapydo/http-api/branches) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.7.3)](https://travis-ci.org/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.org/rapydo/rapydo-angular.svg?branch=0.7.3)](https://travis-ci.org/rapydo/rapydo-angular/branches) |
 | 0.7.2 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.7.2)](https://travis-ci.org/rapydo/do/branches) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.7.2)](https://travis-ci.org/rapydo/http-api/branches) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.7.2)](https://travis-ci.org/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.org/rapydo/rapydo-angular.svg?branch=0.7.2)](https://travis-ci.org/rapydo/rapydo-angular/branches) |
 | 0.7.1 | [![Build Status](https://travis-ci.org/rapydo/do.svg?branch=0.7.1)](https://travis-ci.org/rapydo/do/branches) | [![Build Status](https://travis-ci.org/rapydo/http-api.svg?branch=0.7.1)](https://travis-ci.org/rapydo/http-api/branches) | [![Build Status](https://travis-ci.org/rapydo/build-templates.svg?branch=0.7.1)](https://travis-ci.org/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.org/rapydo/rapydo-angular.svg?branch=0.7.1)](https://travis-ci.org/rapydo/rapydo-angular/branches) |
