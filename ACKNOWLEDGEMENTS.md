@@ -1,6 +1,6 @@
 ## Acknowledgements
 
-This project is based on the work of several people. Some of them contribute (or contributed) directly to the development of the framework. Many others are part of the large open source community and their great work is the foundation of RAPyDo.
+This project is based on the work of several people. Some of them contribute (or contributed) directly to the development of the framework. Many others are part of the huge open source community and their great work is the foundation of RAPyDo.
 
 __To everybody: Thank you :-)__
 
