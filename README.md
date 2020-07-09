@@ -2,7 +2,7 @@
 
 ### A brief summary of all RAPyDO repositories:
 
-| Project | Version | Quality | Travis | Coverage |
+| Project | Version | Quality | Tests | Coverage |
 | --- | --- | --- | --- | --- |
 | [controller](https://github.com/rapydo/do) | [![PyPI version](https://badge.fury.io/py/rapydo-controller.svg)](https://badge.fury.io/py/rapydo-controller) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0668957ee3a04608887b2e9a7fdea198)](https://www.codacy.com/gh/rapydo/do?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rapydo/do&amp;utm_campaign=Badge_Grade) | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.4)](https://travis-ci.com/rapydo/do) | [![codecov](https://codecov.io/gh/rapydo/do/branch/0.7.4/graph/badge.svg)](https://codecov.io/gh/rapydo/do) |
 | [http-api](https://github.com/rapydo/http-api) | [![PyPI version](https://badge.fury.io/py/rapydo-http.svg)](https://badge.fury.io/py/rapydo-http) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7fb33f343d824eaeb323672545ad9cca)](https://www.codacy.com/gh/rapydo/http-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rapydo/http-api&amp;utm_campaign=Badge_Grade) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.4)](https://travis-ci.com/rapydo/http-api) | [![codecov](https://codecov.io/gh/rapydo/http-api/branch/0.7.4/graph/badge.svg)](https://codecov.io/gh/rapydo/http-api) |
@@ -17,7 +17,8 @@
 
 | Version | Release date | Status |
 | --- | --- | --- |
-| **0.7.4** | *Jul 2020* | Under development |
+| **0.7.5** | *Sep 2020* | Under development |
+| **0.7.4** | 09 Jul 2020 | Supported |
 | **0.7.3** | 16 May 2020 | Supported |
 | **0.7.2** | 21 Mar 2020 | Supported |
 | **0.7.1** | 19 Jan 2020 | Supported |
@@ -41,7 +42,9 @@
 
 | Version | Controller | HTTP-API | Build templates | Rapydo-Angular |
 | --- | --- | --- | --- | --- |
-| 0.7.4 | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.4)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.4)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.7.4)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.7.4)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
+| 0.7.5 | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.5)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.5)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.7.5)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.7.5)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
+| 
+| [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.4)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.4)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.7.4)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.7.4)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
 | 0.7.3 | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.3)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.3)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.7.3)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.7.3)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
 | 0.7.2 | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.2)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.2)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.7.2)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.7.2)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
 | 0.7.1 | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.1)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.1)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.7.1)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.7.1)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
