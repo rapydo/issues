@@ -18,19 +18,19 @@
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
 | **0.8.0** | *Nov 2020* | *N/A* | - |
-| **0.7.6** | *Sep 2020* | *Under development* | @decorators.endpoint; Angular10; Cypress 5; Webargs 6 |
-| **0.7.5** | 17 Aug 2020 | Supported | |
-| **0.7.4** | 09 Jul 2020 | Supported | |
-| **0.7.3** | 16 May 2020 | Supported | Dropped utils&rapydo-confs |
+| **0.7.6** | *Sep 2020* | *Under development* | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; |
+| **0.7.5** | 17 Aug 2020 | Supported | Stats endpoint; Ubuntu 20.04; Dropped irods; Typer; |
+| **0.7.4** | 09 Jul 2020 | Supported | Gunicorn; Flask-Apispec; Cypress; |
+| **0.7.3** | 16 May 2020 | Supported | Dropped utils&rapydo-confs; Angular 9; rapydo create; |
 | **0.7.2** | 21 Mar 2020 | Supported | |
 | **0.7.1** | 19 Jan 2020 | Supported | |
-| 0.7.0 | 25 Nov 2019 | Discontinued | |
-| **0.6.7** | 23 Sep 2019 | Partially supported | |
+| 0.7.0 | 25 Nov 2019 | Discontinued | Angular CLI |
+| **0.6.7** | 23 Sep 2019 | Partially supported | Angular 8; |
 | 0.6.6 | 28 Jun 2019 | Discontinued | |
-| 0.6.5 | 19 Apr 2019 | Discontinued | |
+| 0.6.5 | 19 Apr 2019 | Discontinued | Angular 7; |
 | 0.6.4 | 11 Feb 2019 | Discontinued | |
 | 0.6.3 | 06 Dec 2018 | Discontinued | |
-| 0.6.2 | 30 Jul 2018 | Discontinued | |
+| 0.6.2 | 30 Jul 2018 | Discontinued | Angular 5; |
 | 0.6.1 | 26 Apr 2018 | Discontinued | |
 | 0.6.0 | 17 Jan 2018 | Discontinued | |
 | 0.5.7 | 03 Nov 2017 | Discontinued | |
