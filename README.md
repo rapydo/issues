@@ -27,7 +27,7 @@
 | 0.7.0 | 25 Nov 2019 | Discontinued | Angular CLI; Dropped swagger yamls |
 | **0.6.7** | 23 Sep 2019 | Partially supported | Angular 8; |
 | 0.6.6 | 28 Jun 2019 | Discontinued | |
-| 0.6.5 | 19 Apr 2019 | Discontinued | Angular 7; |
+| 0.6.5 | 19 Apr 2019 | Discontinued | Angular 7; rapydo install auto;|
 | 0.6.4 | 11 Feb 2019 | Discontinued | |
 | 0.6.3 | 06 Dec 2018 | Discontinued | |
 | 0.6.2 | 30 Jul 2018 | Discontinued | Angular 5; |
