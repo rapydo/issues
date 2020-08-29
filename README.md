@@ -21,7 +21,7 @@
 | **0.7.6** | *Sep 2020* | *Under development* | @decorators.endpoint; Angular10; Cypress 5; Webargs 6 |
 | **0.7.5** | 17 Aug 2020 | Supported | |
 | **0.7.4** | 09 Jul 2020 | Supported | |
-| **0.7.3** | 16 May 2020 | Supported | |
+| **0.7.3** | 16 May 2020 | Supported | Dropped utils&rapydo-confs |
 | **0.7.2** | 21 Mar 2020 | Supported | |
 | **0.7.1** | 19 Jan 2020 | Supported | |
 | 0.7.0 | 25 Nov 2019 | Discontinued | |
