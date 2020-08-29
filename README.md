@@ -15,32 +15,32 @@
 
 ## Versions
 
-| Version | Release date | Status |
-| --- | --- | --- |
-| **0.8.0** | *Nov 2020* | *N/A* |
-| **0.7.6** | *Sep 2020* | *Under development* |
-| **0.7.5** | 17 Aug 2020 | Supported |
-| **0.7.4** | 09 Jul 2020 | Supported |
-| **0.7.3** | 16 May 2020 | Supported |
-| **0.7.2** | 21 Mar 2020 | Supported |
-| **0.7.1** | 19 Jan 2020 | Supported |
-| 0.7.0 | 25 Nov 2019 | Discontinued |
-| **0.6.7** | 23 Sep 2019 | Partially supported |
-| 0.6.6 | 28 Jun 2019 | Discontinued |
-| 0.6.5 | 19 Apr 2019 | Discontinued |
-| 0.6.4 | 11 Feb 2019 | Discontinued |
-| 0.6.3 | 06 Dec 2018 | Discontinued |
-| 0.6.2 | 30 Jul 2018 | Discontinued |
-| 0.6.1 | 26 Apr 2018 | Discontinued |
-| 0.6.0 | 17 Jan 2018 | Discontinued |
-| 0.5.7 | 03 Nov 2017 | Discontinued |
-| 0.5.6 | 24 Oct 2017 | Discontinued |
-| 0.5.5 | 25 Sep 2017 | Discontinued |
-| 0.5.4 | 12 Sep 2017 | Discontinued |
-| 0.5.3 | 1 Aug 2017 | Discontinued |
-| 0.5.2 | 28 Jul 2017 | Discontinued |
-| 0.5.1 | 18 Jul 2017 | Discontinued |
-| 0.5.0 | 14 Jul 2017 | Discontinued |
+| Version | Release date | Status | Major changes |
+| --- | --- | --- | --- |
+| **0.8.0** | *Nov 2020* | *N/A* | - |
+| **0.7.6** | *Sep 2020* | *Under development* | @decorators.endpoint; Angular10; Cypress 5; Webargs 6 |
+| **0.7.5** | 17 Aug 2020 | Supported | |
+| **0.7.4** | 09 Jul 2020 | Supported | |
+| **0.7.3** | 16 May 2020 | Supported | |
+| **0.7.2** | 21 Mar 2020 | Supported | |
+| **0.7.1** | 19 Jan 2020 | Supported | |
+| 0.7.0 | 25 Nov 2019 | Discontinued | |
+| **0.6.7** | 23 Sep 2019 | Partially supported | |
+| 0.6.6 | 28 Jun 2019 | Discontinued | |
+| 0.6.5 | 19 Apr 2019 | Discontinued | |
+| 0.6.4 | 11 Feb 2019 | Discontinued | |
+| 0.6.3 | 06 Dec 2018 | Discontinued | |
+| 0.6.2 | 30 Jul 2018 | Discontinued | |
+| 0.6.1 | 26 Apr 2018 | Discontinued | |
+| 0.6.0 | 17 Jan 2018 | Discontinued | |
+| 0.5.7 | 03 Nov 2017 | Discontinued | |
+| 0.5.6 | 24 Oct 2017 | Discontinued | |
+| 0.5.5 | 25 Sep 2017 | Discontinued | |
+| 0.5.4 | 12 Sep 2017 | Discontinued | |
+| 0.5.3 | 1 Aug 2017 | Discontinued | |
+| 0.5.2 | 28 Jul 2017 | Discontinued | |
+| 0.5.1 | 18 Jul 2017 | Discontinued | |
+| 0.5.0 | 14 Jul 2017 | Discontinued | |
 
 | Version | Controller | HTTP-API | Build templates | Rapydo-Angular |
 | --- | --- | --- | --- | --- |
