@@ -25,7 +25,7 @@
 | **0.7.2** | 21 Mar 2020 | Supported | Dropped py34; |
 | **0.7.1** | 19 Jan 2020 | Supported | Dropped utils|
 | 0.7.0 | 25 Nov 2019 | Discontinued | Angular CLI; Dropped swagger yamls |
-| **0.6.7** | 23 Sep 2019 | Partially supported | Angular 8; |
+| **0.6.7** | 23 Sep 2019 | Partially supported | Angular 8; Celery-beat |
 | 0.6.6 | 28 Jun 2019 | Discontinued | |
 | 0.6.5 | 19 Apr 2019 | Discontinued | Angular 7; rapydo install auto;|
 | 0.6.4 | 11 Feb 2019 | Discontinued | |
