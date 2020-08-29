@@ -19,7 +19,7 @@
 | --- | --- | --- | --- |
 | **0.8.0** | *Nov 2020* | *N/A* | - |
 | **0.7.6** | *Sep 2020* | *Under development* | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; |
-| **0.7.5** | 17 Aug 2020 | Supported | Stats endpoint; Ubuntu 20.04; Dropped irods; Typer; |
+| **0.7.5** | 17 Aug 2020 | Supported | Stats endpoint; Ubuntu 20.04; Dropped irods; Typer; rapydo backup; |
 | **0.7.4** | 09 Jul 2020 | Supported | Gunicorn; Flask-Apispec; Dropped AngularJS; Cypress; |
 | **0.7.3** | 16 May 2020 | Supported | Dropped rapydo-confs; Unwrapped responses; Angular 9; rapydo create; |
 | **0.7.2** | 21 Mar 2020 | Supported | |
