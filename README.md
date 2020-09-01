@@ -19,13 +19,13 @@
 | --- | --- | --- | --- |
 | **0.8.0** | *Nov 2020* | *N/A* | - |
 | **0.7.6** | *Sep 2020* | *Under development* | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; |
-| **0.7.5** | 17 Aug 2020 | Supported | Stats endpoint; Ubuntu 20.04; Dropped irods; Dropped py35; Typer; rapydo backup; |
-| **0.7.4** | 09 Jul 2020 | Supported | Gunicorn; Flask-Apispec; Dropped AngularJS; Cypress; |
-| **0.7.3** | 16 May 2020 | Discontinued | Dropped rapydo-confs; Unwrapped responses; Angular 9; rapydo create; |
-| **0.7.2** | 21 Mar 2020 | Discontinued | Dropped py34; |
-| **0.7.1** | 19 Jan 2020 | Supported | Dropped utils|
+| **0.7.5** | 17 Aug 2020 | **Supported** | Stats endpoint; Ubuntu 20.04; Dropped irods; Dropped py35; Typer; rapydo backup; |
+| **0.7.4** | 09 Jul 2020 | **Supported** | Gunicorn; Flask-Apispec; Dropped AngularJS; Cypress; |
+| 0.7.3 | 16 May 2020 | Discontinued | Dropped rapydo-confs; Unwrapped responses; Angular 9; rapydo create; |
+| 0.7.2 | 21 Mar 2020 | Discontinued | Dropped py34; |
+| **0.7.1** | 19 Jan 2020 | **Supported** | Dropped utils|
 | 0.7.0 | 25 Nov 2019 | Discontinued | Angular CLI; Dropped swagger yamls |
-| **0.6.7** | 23 Sep 2019 | Partially supported | Angular 8; Celery-beat |
+| **0.6.7** | 23 Sep 2019 | **Partially supported** | Angular 8; Celery-beat |
 | 0.6.6 | 28 Jun 2019 | Discontinued | |
 | 0.6.5 | 19 Apr 2019 | Discontinued | Angular 7; rapydo install auto;|
 | 0.6.4 | 11 Feb 2019 | Discontinued | |
