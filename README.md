@@ -20,7 +20,7 @@
 | **0.8** | *Nov 2020* | *Under development* | Controller package renamed (rapydo-controller -> rapydo); Dropped support for _METHOD dictionaries; Ajv frontend validation (dev mode); Neo4j 4; |
 | **0.7.6** | 04 Sep 2020 | **Supported** | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; Profile edit; |
 | **0.7.5** | 17 Aug 2020 | **Supported** | Stats endpoint; Ubuntu 20.04; Dropped irods; Dropped py35; Typer; rapydo backup; |
-| **0.7.4** | 09 Jul 2020 | **Supported** | Gunicorn; Flask-Apispec; Dropped AngularJS; Cypress; |
+| 0.7.4 | 09 Jul 2020 | Discontinued | Gunicorn; Flask-Apispec; Dropped AngularJS; Cypress; |
 | 0.7.3 | 16 May 2020 | Discontinued | Dropped rapydo-confs repo; Unwrapped responses; Angular 9; rapydo create; |
 | 0.7.2 | 21 Mar 2020 | Discontinued | Dropped py34; |
 | **0.7.1** | 19 Jan 2020 | **Supported** | Dropped utils repo|
