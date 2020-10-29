@@ -18,23 +18,23 @@
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
 | **1.0** | *Jan 2021* | *Not started* | |
-| **0.9** | *Nov-Dec 2020* | *Under development* | Groups management; Celery 5; |
+| **0.9** | *Nov-Dec 2020* | *Under development* | Groups management; Celery 5; PostgreSQL 13; |
 | **0.8** | *24 Oct 2020* | **Supported** | Controller package renamed (rapydo-controller -> rapydo); Dropped support for _METHOD dictionaries; Ajv frontend validation (dev mode); Neo4j 4; |
 | **0.7.6** | 04 Sep 2020 | **Supported** | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; Profile edit; |
 | **0.7.5** | 17 Aug 2020 | **Supported** | Stats endpoint; Ubuntu 20.04; Dropped irods; Dropped py35; Typer; rapydo backup; |
 | 0.7.4 | 09 Jul 2020 | Discontinued | Gunicorn; Flask-Apispec; Dropped AngularJS; Cypress; |
 | 0.7.3 | 16 May 2020 | Discontinued | Dropped rapydo-confs repo; Unwrapped responses; Angular 9; rapydo create; |
 | 0.7.2 | 21 Mar 2020 | Discontinued | Dropped py34; |
-| **0.7.1** | 19 Jan 2020 | **Supported** | Dropped utils repo|
+| **0.7.1** | 19 Jan 2020 | **Supported** | Dropped utils repo; PostgreSQL 12; |
 | 0.7.0 | 25 Nov 2019 | Discontinued | Angular CLI; Dropped swagger yamls |
-| 0.6.7 | 23 Sep 2019 | Discontinued | Angular 8; Celery-beat |
+| 0.6.7 | 23 Sep 2019 | Discontinued | Angular 8; Celery-beat; PostgreSQL 11; |
 | 0.6.6 | 28 Jun 2019 | Discontinued | |
 | 0.6.5 | 19 Apr 2019 | Discontinued | Angular 7; rapydo install auto;|
 | 0.6.4 | 11 Feb 2019 | Discontinued | |
 | 0.6.3 | 06 Dec 2018 | Discontinued | |
 | 0.6.2 | 30 Jul 2018 | Discontinued | Angular 5; |
 | 0.6.1 | 26 Apr 2018 | Discontinued | |
-| 0.6.0 | 17 Jan 2018 | Discontinued | |
+| 0.6.0 | 17 Jan 2018 | Discontinued | PostgreSQL 10; |
 | 0.5.7 | 03 Nov 2017 | Discontinued | |
 | 0.5.6 | 24 Oct 2017 | Discontinued | |
 | 0.5.5 | 25 Sep 2017 | Discontinued | |
