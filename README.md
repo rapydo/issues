@@ -18,7 +18,7 @@
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
 | **1.0** | *Jan 2021* | *Not started* | |
-| **0.9** | *Nov-Dec 2020* | *Under development* | Groups management; PostgreSQL 13; |
+| **0.9** | *Nov-Dec 2020* | *Under development* | Groups management; PostgreSQL 13; Started Python Typing; |
 | **0.8** | *24 Oct 2020* | **Supported** | Controller package renamed (rapydo-controller -> rapydo); Dropped support for _METHOD dictionaries; Ajv frontend validation (dev mode); Neo4j 4; |
 | **0.7.6** | 04 Sep 2020 | **Supported** | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; Profile edit; |
 | **0.7.5** | 17 Aug 2020 | **Supported** | Stats endpoint; Ubuntu 20.04; Dropped irods; Dropped py35; Typer; rapydo backup; |
