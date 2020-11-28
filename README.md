@@ -20,12 +20,12 @@
 | **1.0** | *Jan 2021* | *Not started* | |
 | **0.9** | *Nov-Dec 2020* | *Under development* | Groups management; PostgreSQL 13; Started Python Typing; Responses gzip compression; |
 | **0.8** | *24 Oct 2020* | **Supported** | Controller package renamed (rapydo-controller -> rapydo); Dropped support for _METHOD dictionaries; Ajv frontend validation (dev mode); Neo4j 4; |
-| **0.7.6** | 04 Sep 2020 | **Supported** | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; Profile edit; |
+| 0.7.6 | 04 Sep 2020 | Discontinued | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; Profile edit; |
 | 0.7.5 | 17 Aug 2020 | Discontinued | Stats endpoint; Ubuntu 20.04; Dropped irods; Dropped py35; Typer; rapydo backup; |
 | 0.7.4 | 09 Jul 2020 | Discontinued | Gunicorn; Flask-Apispec; Dropped AngularJS; Cypress; |
 | 0.7.3 | 16 May 2020 | Discontinued | Dropped rapydo-confs repo; Unwrapped responses; Angular 9; rapydo create; |
 | 0.7.2 | 21 Mar 2020 | Discontinued | Dropped py34; |
-| **0.7.1** | 19 Jan 2020 | **Supported** | Dropped utils repo; PostgreSQL 12; |
+| 0.7.1 | 19 Jan 2020 | Discontinued | Dropped utils repo; PostgreSQL 12; |
 | 0.7.0 | 25 Nov 2019 | Discontinued | Angular CLI; Dropped swagger yamls |
 | 0.6.7 | 23 Sep 2019 | Discontinued | Angular 8; Celery-beat; PostgreSQL 11; |
 | 0.6.6 | 28 Jun 2019 | Discontinued | |
@@ -48,8 +48,6 @@
 | --- | --- | --- | --- | --- |
 | 0.9 | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/do/actions?query=branch%3A0.9+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/http-api/actions?query=branch%3A0.9+workflow%3ATest) | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=0.9)](https://github.com/rapydo/build-templates/actions?query=branch%3A0.9+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A0.9+workflow%3ATest) |
 | 0.8 | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.8)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.8)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.8)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.8)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
-| 0.7.6 | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.6)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.6)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.7.6)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.7.6)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
-| 0.7.1 | [![Build Status](https://travis-ci.com/rapydo/do.svg?branch=0.7.1)](https://travis-ci.com/rapydo/do/branches) | [![Build Status](https://travis-ci.com/rapydo/http-api.svg?branch=0.7.1)](https://travis-ci.com/rapydo/http-api/branches) | [![Build Status](https://travis-ci.com/rapydo/build-templates.svg?branch=0.7.1)](https://travis-ci.com/rapydo/build-templates/branches) | [![Build Status](https://travis-ci.com/rapydo/rapydo-angular.svg?branch=0.7.1)](https://travis-ci.com/rapydo/rapydo-angular/branches) |
 
 | Controller | HTTP-API | Rapydo-Angular |
 | --- | --- | --- |
