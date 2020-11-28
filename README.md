@@ -47,7 +47,6 @@
 | Version | Build templates | Controller | HTTP-API | Rapydo-Angular |
 | --- | --- | --- | --- | --- |
 | 0.9 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=0.9)](https://github.com/rapydo/build-templates/actions?query=branch%3A0.9+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/do/actions?query=branch%3A0.9+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/http-api/actions?query=branch%3A0.9+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A0.9+workflow%3ATest) |
-| 0.8 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=0.8)](https://github.com/rapydo/build-templates/actions?query=branch%3A0.8+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=0.8)](https://github.com/rapydo/do/actions?query=branch%3A0.8+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=0.8)](https://github.com/rapydo/http-api/actions?query=branch%3A0.8+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=0.8)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A0.8+workflow%3ATest) |
 
 
 | Controller | HTTP-API | Rapydo-Angular |
