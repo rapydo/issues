@@ -46,9 +46,10 @@
 
 | Version | Build templates | Controller | HTTP-API | Rapydo-Angular |
 | --- | --- | --- | --- | --- |
+| 1.0 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=1.0)](https://github.com/rapydo/build-templates/actions?query=branch%3A1.0+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/do/actions?query=branch%3A1.0+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/http-api/actions?query=branch%3A1.0+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A1.0+workflow%3ATest) |
 | 0.9 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=0.9)](https://github.com/rapydo/build-templates/actions?query=branch%3A0.9+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/do/actions?query=branch%3A0.9+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/http-api/actions?query=branch%3A0.9+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A0.9+workflow%3ATest) |
 
 
 | Controller | HTTP-API | Rapydo-Angular |
 | --- | --- | --- |
-| ![](https://codecov.io/gh/rapydo/do/branch/0.9/graphs/sunburst.svg) | ![](https://codecov.io/gh/rapydo/http-api/branch/0.9/graphs/sunburst.svg) | ![](https://codecov.io/gh/rapydo/rapydo-angular/branch/0.9/graphs/sunburst.svg) |
+| ![](https://codecov.io/gh/rapydo/do/branch/1.0/graphs/sunburst.svg) | ![](https://codecov.io/gh/rapydo/http-api/branch/1.0/graphs/sunburst.svg) | ![](https://codecov.io/gh/rapydo/rapydo-angular/branch/1.0/graphs/sunburst.svg) |
