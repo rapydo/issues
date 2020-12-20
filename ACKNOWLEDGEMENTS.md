@@ -76,5 +76,13 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <sub><i>tiangolo</i></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/epoberezkin">
+        <img src="https://avatars.githubusercontent.com/u/2769109?v=3" width="200px;" alt=""/><br />
+        <sub><b>Evgeny Poberezkin</b></sub>
+        <br>
+        <sub><i>epoberezkin</i></sub>
+      </a>
+    </td>
   </tr>
 </table>
