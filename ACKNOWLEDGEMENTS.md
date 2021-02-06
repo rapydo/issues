@@ -85,4 +85,14 @@ _Very important addendum: this list is very incomplete and very experimental, I 
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/aitboudad-">
+        <img src="https://avatars.githubusercontent.com/u/1753742?v=3" width="200px;" alt=""/><br />
+        <sub><b>Abdellatif Ait boudad</b></sub>
+        <br>
+        <sub><i>aitboudad-</i></sub>
+      </a>
+    </td>
+  </tr>
 </table>
