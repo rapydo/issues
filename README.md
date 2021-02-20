@@ -17,10 +17,10 @@
 
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
-| **1.0** | *Apr 2021* | *Under development* | |
-| **1.0** | *20 Feb 2021* | **Supported** | Python3.9 backend; Celery 5; Angular 11; Ajv 7 with standalone compilation (production-ready); Angular SSR; Two Factor Authentication; |
-| **0.9** | *13 Dec 2020* | **Supported** | Groups management; PostgreSQL 13; Started Python Typing; Gzip compressed responses; Endpoints caching; |
-| **0.8** | *24 Oct 2020* | **Supported** | Controller package renamed (rapydo-controller -> rapydo); Dropped support for _METHOD dictionaries; Ajv frontend validation (dev mode); Neo4j 4; |
+| **1.1** | *Apr 2021* | *Under development* | |
+| **1.0** | **20 Feb 2021** | **Supported** | Python3.9 backend; Celery 5; Angular 11; Ajv 7 with standalone compilation (production-ready); Angular SSR; Two Factor Authentication; |
+| **0.9** | **13 Dec 2020** | **Supported** | Groups management; PostgreSQL 13; Started Python Typing; Gzip compressed responses; Endpoints caching; |
+| **0.8** | **24 Oct 2020** | **Supported** | Controller package renamed (rapydo-controller -> rapydo); Dropped support for _METHOD dictionaries; Ajv frontend validation (dev mode); Neo4j 4; |
 | 0.7.6 | 04 Sep 2020 | Discontinued | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; Profile edit; |
 | 0.7.5 | 17 Aug 2020 | Discontinued | Stats endpoint; Ubuntu 20.04; Dropped irods; Dropped py35; Typer; rapydo backup; |
 | 0.7.4 | 09 Jul 2020 | Discontinued | Gunicorn; Flask-Apispec; Dropped AngularJS; Cypress; |
@@ -47,10 +47,11 @@
 
 | Version | Build templates | Controller | HTTP-API | Rapydo-Angular |
 | --- | --- | --- | --- | --- |
+| 1.1 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=1.1)](https://github.com/rapydo/build-templates/actions?query=branch%3A1.1+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=1.1)](https://github.com/rapydo/do/actions?query=branch%3A1.1+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=1.1)](https://github.com/rapydo/http-api/actions?query=branch%3A1.1+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=1.1)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A1.1+workflow%3ATest) |
 | 1.0 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=1.0)](https://github.com/rapydo/build-templates/actions?query=branch%3A1.0+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/do/actions?query=branch%3A1.0+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/http-api/actions?query=branch%3A1.0+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A1.0+workflow%3ATest) |
 | 0.9 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=0.9)](https://github.com/rapydo/build-templates/actions?query=branch%3A0.9+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/do/actions?query=branch%3A0.9+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/http-api/actions?query=branch%3A0.9+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=0.9)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A0.9+workflow%3ATest) |
 
 
 | Controller | HTTP-API | Rapydo-Angular |
 | --- | --- | --- |
-| ![](https://codecov.io/gh/rapydo/do/branch/1.0/graphs/sunburst.svg) | ![](https://codecov.io/gh/rapydo/http-api/branch/1.0/graphs/sunburst.svg) | ![](https://codecov.io/gh/rapydo/rapydo-angular/branch/1.0/graphs/sunburst.svg) |
+| ![](https://codecov.io/gh/rapydo/do/branch/1.1/graphs/sunburst.svg) | ![](https://codecov.io/gh/rapydo/http-api/branch/1.1/graphs/sunburst.svg) | ![](https://codecov.io/gh/rapydo/rapydo-angular/branch/1.1/graphs/sunburst.svg) |
