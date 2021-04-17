@@ -17,7 +17,7 @@
 
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
-| **1.1** | *Apr 2021* | *Under development* | Deprecated endpoints multiple mapping; Autocomplete fields; Upload and Download improvements; |
+| **1.1** | *Apr 2021* | *Under development* | Deprecated endpoints multiple mapping; Autocomplete fields; Upload and download improvements; SEO improvements; |
 | **1.0** | **20 Feb 2021** | **Supported** | Python3.9 backend; Celery 5; Angular 11; Ajv 7 with standalone compilation (production-ready); Angular SSR; Two Factor Authentication; |
 | **0.9** | **13 Dec 2020** | **Supported** | Groups management; PostgreSQL 13; Started Python Typing; Gzip compressed responses; Endpoints caching; |
 | **0.8** | **24 Oct 2020** | **Supported** | Controller package renamed (rapydo-controller -> rapydo); Dropped support for _METHOD dictionaries; Ajv frontend validation (dev mode); Neo4j 4; |
