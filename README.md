@@ -17,7 +17,7 @@
 
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
-| **1.2** | *Jun 2021* | *Under development* |  |
+| **1.2** | *Jun 2021* | *Under development* | SCSS; Support for NoAuth deployments; |
 | **1.1** | **24 Apr 2021** | **Supported** | Deprecated endpoints multiple mapping; Autocomplete fields; Upload and download improvements; SEO improvements; |
 | **1.0** | **20 Feb 2021** | **Supported** | Python3.9 backend; Celery 5; Angular 11; Ajv 7 with standalone compilation (production-ready); Angular SSR; Two Factor Authentication; |
 | **0.9** | **13 Dec 2020** | **Supported** | Groups management; PostgreSQL 13; Started Python Typing; Gzip compressed responses; Endpoints caching; |
