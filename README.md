@@ -17,10 +17,10 @@
 
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
-| **2.0** | *Jul 2021* | *Under development* | Docker 20.10+; Dropped py3.6; |
+| **2.0** | *Jul 2021* | *Under development* | Docker 20.10+; Dropped py3.6; Swarm Mode PoC; |
 | **1.2** | **22 May 2021** | **Supported** | SCSS; Support for NoAuth deployments; Enabled Docker BuildKit; |
 | **1.1** | **24 Apr 2021** | **Supported** | Deprecated endpoints multiple mapping; Autocomplete fields; Upload and download improvements; SEO improvements; |
-| **1.0** | **20 Feb 2021** | **Supported** | Python3.9 backend; Celery 5; Angular 11; Ajv 7 with standalone compilation (production-ready); Angular SSR; Two Factor Authentication; |
+| 1.0 | 20 Feb 2021 | Discontinued | Python3.9 backend; Celery 5; Angular 11; Ajv 7 with standalone compilation (production-ready); Angular SSR; Two Factor Authentication; |
 | 0.9 | 13 Dec 2020 | Discontinued | Groups management; PostgreSQL 13; Started Python Typing; Gzip compressed responses; Endpoints caching; |
 | 0.8 | 24 Oct 2020 | Discontinued | Controller package renamed (rapydo-controller -> rapydo); Dropped support for _METHOD dictionaries; Ajv frontend validation (dev mode); Neo4j 4; |
 | 0.7.6 | 04 Sep 2020 | Discontinued | @decorators.endpoint; Angular10; Cypress 5; Webargs 6; Profile edit; |
@@ -52,7 +52,6 @@
 | 2.0 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=2.0)](https://github.com/rapydo/build-templates/actions?query=branch%3A2.0+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=2.0)](https://github.com/rapydo/do/actions?query=branch%3A2.0+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=2.0)](https://github.com/rapydo/http-api/actions?query=branch%3A2.0+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=2.0)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A2.0+workflow%3ATest) |
 | 1.2 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=1.2)](https://github.com/rapydo/build-templates/actions?query=branch%3A1.2+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=1.2)](https://github.com/rapydo/do/actions?query=branch%3A1.2+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=1.2)](https://github.com/rapydo/http-api/actions?query=branch%3A1.2+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=1.2)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A1.2+workflow%3ATest) |
 | 1.1 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=1.1)](https://github.com/rapydo/build-templates/actions?query=branch%3A1.1+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=1.1)](https://github.com/rapydo/do/actions?query=branch%3A1.1+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=1.1)](https://github.com/rapydo/http-api/actions?query=branch%3A1.1+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=1.1)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A1.1+workflow%3ATest) |
-| 1.0 | [![Docker Build](https://github.com/rapydo/build-templates/workflows/Build/badge.svg?branch=1.0)](https://github.com/rapydo/build-templates/actions?query=branch%3A1.0+workflow%3A%22Build%22) | [![Test](https://github.com/rapydo/do/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/do/actions?query=branch%3A1.0+workflow%3ATest) | [![Test](https://github.com/rapydo/http-api/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/http-api/actions?query=branch%3A1.0+workflow%3ATest) | [![Test](https://github.com/rapydo/rapydo-angular/workflows/Test/badge.svg?branch=1.0)](https://github.com/rapydo/rapydo-angular/actions?query=branch%3A1.0+workflow%3ATest) |
 
 
 | Controller | HTTP-API | Rapydo-Angular |
