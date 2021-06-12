@@ -39,10 +39,9 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <br>
         <sub><i>miguelgrinberg</i></sub>
       </a>
+    </td>
   </tr>
   <tr>
-
-    </td>
     <td align="center">
       <a href="https://github.com/sloria">
         <img src="https://avatars.githubusercontent.com/u/2379650?v=3" width="200px;" alt=""/><br />
@@ -59,8 +58,6 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <sub><i>aanastasiou</i></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/shin-">
         <img src="https://avatars.githubusercontent.com/u/1086876?v=3" width="200px;" alt=""/><br />
@@ -77,14 +74,8 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <sub><i>tiangolo</i></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/epoberezkin">
-        <img src="https://avatars.githubusercontent.com/u/2769109?v=3" width="200px;" alt=""/><br />
-        <sub><b>Evgeny Poberezkin</b></sub>
-        <br>
-        <sub><i>epoberezkin</i></sub>
-      </a>
-    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aitboudad">
         <img src="https://avatars.githubusercontent.com/u/12891691?v=3" width="200px;" alt=""/><br />
@@ -93,8 +84,14 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <sub><i>gabrieldemarmiesse</i></sub>
       </a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/epoberezkin">
+        <img src="https://avatars.githubusercontent.com/u/2769109?v=3" width="200px;" alt=""/><br />
+        <sub><b>Evgeny Poberezkin</b></sub>
+        <br>
+        <sub><i>epoberezkin</i></sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/aitboudad">
         <img src="https://avatars.githubusercontent.com/u/1753742?v=3" width="200px;" alt=""/><br />
