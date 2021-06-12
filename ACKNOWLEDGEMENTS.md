@@ -77,7 +77,7 @@ _Very important addendum: this list is very incomplete and very experimental, I 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/aitboudad">
+      <a href="https://github.com/gabrieldemarmiesse">
         <img src="https://avatars.githubusercontent.com/u/12891691?v=3" width="200px;" alt=""/><br />
         <sub><b>Gabriel de Marmiesse</b></sub>
         <br>
