@@ -32,8 +32,6 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <sub><i>giuseppetrotta</i></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/miguelgrinberg">
         <img src="https://avatars.githubusercontent.com/u/2715854?v=3" width="200px;" alt=""/><br />
@@ -41,6 +39,9 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <br>
         <sub><i>miguelgrinberg</i></sub>
       </a>
+  </tr>
+  <tr>
+
     </td>
     <td align="center">
       <a href="https://github.com/sloria">
@@ -84,6 +85,14 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <sub><i>epoberezkin</i></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/aitboudad">
+        <img src="https://avatars.githubusercontent.com/u/12891691?v=3" width="200px;" alt=""/><br />
+        <sub><b>Gabriel de Marmiesse</b></sub>
+        <br>
+        <sub><i>gabrieldemarmiesse</i></sub>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -94,13 +103,6 @@ _Very important addendum: this list is very incomplete and very experimental, I 
         <sub><i>aitboudad</i></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/aitboudad">
-        <img src="https://avatars.githubusercontent.com/u/12891691?v=3" width="200px;" alt=""/><br />
-        <sub><b>Gabriel de Marmiesse</b></sub>
-        <br>
-        <sub><i>gabrieldemarmiesse</i></sub>
-      </a>
-    </td>    
+ 
   </tr>
 </table>
