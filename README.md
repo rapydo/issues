@@ -17,7 +17,7 @@
 
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
-| **2.0** | *Jul 2021* | *Under development* | Docker 20.10+; Dropped py3.6; Swarm Mode PoC; Flask 2; Angular 12; RxJS 7; Node 16; preload decorator; containers health checks; introduction of python-on-whales; |
+| **2.0** | *Jul 2021* | *Under development* | Docker 20.10+; Dropped py3.6; Swarm Mode PoC; Flask 2; Angular 12; RxJS 7; Node 16; preload decorator; containers health checks; introduction of python-on-whales; Flower 1.0; |
 | **1.2** | **22 May 2021** | **Supported** | SCSS; Support for NoAuth deployments; Enabled Docker BuildKit; |
 | **1.1** | **24 Apr 2021** | **Supported** | Deprecated endpoints multiple mapping; Autocomplete fields; Upload and download improvements; SEO improvements; |
 | 1.0 | 20 Feb 2021 | Discontinued | Python3.9 backend; Celery 5; Angular 11; Ajv 7 with standalone compilation (production-ready); Angular SSR; Two Factor Authentication; |
